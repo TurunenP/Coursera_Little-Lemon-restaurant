@@ -6,11 +6,10 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Home Page
 
-![HomePage](https://github.com/TurunenP/Coursera_Challenge_Little-Lemon-restaurant/assets/43337898/34795157-76e2-49c1-8d4d-347d39d61c43)
+![HomePage](https://github.com/TurunenP/Coursera_Little-Lemon-restaurant/assets/43337898/f7eb7e4b-c3fb-4bf6-ad07-1ccb08170a36)
 
-![Screenshot](./home-page.png)
 
-### Booking Page
+### Reservation Page
 
 ![Reservations](https://github.com/TurunenP/Coursera_Little-Lemon-restaurant/assets/43337898/da12c869-0561-4bd2-a31f-6956114ff165)
 
