@@ -12,7 +12,7 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Booking Page
 
-![Reservations](https://github.com/TurunenP/Coursera_Challenge_Little-Lemon-restaurant/assets/43337898/420bb0ae-44ef-442b-a156-8bd23c3c86b7)
+![Reservations](https://github.com/TurunenP/Coursera_Little-Lemon-restaurant/assets/43337898/da12c869-0561-4bd2-a31f-6956114ff165)
 
 ### Tech Stack:
 
