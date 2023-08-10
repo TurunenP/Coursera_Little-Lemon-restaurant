@@ -9,7 +9,7 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 ![HomePage](https://github.com/TurunenP/Coursera_Little-Lemon-restaurant/assets/43337898/f7eb7e4b-c3fb-4bf6-ad07-1ccb08170a36)
 
 
-### WireFrame
+### UX/UI design
 
 ![Reservation](https://github.com/TurunenP/Coursera_Little-Lemon-restaurant/assets/43337898/d0e0ef99-d820-433d-bf8a-f514b8e6e448)
 
